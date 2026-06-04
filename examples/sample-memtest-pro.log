@@ -1,0 +1,17 @@
+2026-06-04 10:00:00 - MemTest86 Demo Log
+2026-06-04 10:00:01 - CPU : Demo Xeon CPU
+2026-06-04 10:00:02 - Total memory size (137438953472 bytes)
+[Slot 0]
+Locator : DIMM_A1
+Size : 32768 MB
+Manufacturer : DemoVendor
+Part Number : DEMO-32GB-DDR4
+Serial Number : REDACTED-DEMO-001
+[Slot 1]
+Locator : DIMM_A2
+Size : 32768 MB
+Manufacturer : DemoVendor
+Part Number : DEMO-32GB-DDR4
+Serial Number : REDACTED-DEMO-002
+2026-06-04 10:30:00 - Finished pass #1 (of 1)
+2026-06-04 10:30:01 - Test result : PASS (Errors : 0)

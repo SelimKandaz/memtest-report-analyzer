@@ -1,1 +1,3 @@
-# Standard library only
+reportlab
+pillow
+pytest
