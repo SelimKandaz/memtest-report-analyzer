@@ -28,3 +28,6 @@ logs/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Allow sanitized demo log files in examples
+!examples/*.log
